@@ -1,3 +1,5 @@
+<center><img style="width: 200px; margin-bottom: 5em;" src="./1.png"></center>
+
 # Database Queries
 
 ## Topics
