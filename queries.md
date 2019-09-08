@@ -1,4 +1,4 @@
-***<center><span style="font-family:Papyrus; font-size:4em; color:#013220 ; text-align: center;">Database Queries</span></center>***
+**<center><span style="font-family:Papyrus; font-size:4em; color:#013220;">**Database Queries**</span></center>**
 
 <center><img style="width: 200px; margin-bottom: 5em;" src="./1.png"></center>
   
